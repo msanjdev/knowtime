@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual C# Express 2008
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "knowTime", "knowTime.csproj", "{F0C7AF56-FAE2-4AC8-A205-8D9D451A6949}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "knowTime", "KnowTime\knowTime.csproj", "{F0C7AF56-FAE2-4AC8-A205-8D9D451A6949}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
