@@ -30,3 +30,8 @@ This is only an initial set. See Change Log for latest features.
   -  A brief note for each task
   -  Notification icon with context menu to mark current task one is working on
   -  A time log that displays the tracked time in a list view 
+
+Technology:
+----------
+  - Windows Application
+  - Microsoft .NET 
