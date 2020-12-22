@@ -20,6 +20,7 @@ knowTime is free to use - any feedback is greatly appreciated. There are plenty 
 Installation
 
 knowTime is a single, standalone EXE, there is no set up involved, just download and run it!
+
 Details
 ===========
 Features:
@@ -35,3 +36,5 @@ Technology:
 ----------
   - Windows Application
   - Microsoft .NET 
+  
+ originally in code.google.com/p/knowtime
