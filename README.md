@@ -1,5 +1,4 @@
 # knowtime
-# Automatically exported from code.google.com/p/knowtime
 
 Introduction
 ===========
