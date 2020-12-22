@@ -1,5 +1,6 @@
 # knowtime
-Automatically exported from code.google.com/p/knowtime
+# Automatically exported from code.google.com/p/knowtime
+
 Introduction
 ===========
 This is a simple, unobstrusive tool that helps you to realise how you are spending your time. Objective is to help you in increasing your focus and productivity.
